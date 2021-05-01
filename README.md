@@ -9,6 +9,6 @@ Projeyi klonladıktan sonra Visual Studio programında açın
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için konu açınız.
 ## License
-[MIT]
+[MIT](https://github.com/semihbatmaz/kodluyoruzilkrepo/blob/main/LICENSE)
 
 
