@@ -3,7 +3,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End eğitiminde oluştur
 dosyası, bir adet de index.html dosyası barındırıyor.
 ## Installation
 Öncelikle projeyi klonlayın. <br> 
-![](1.png)
+git clone https://github.com/semihbatmaz/kodluyoruzilkrepo
 ## Usage
 Projeyi klonladıktan sonra Visual Studio programında açın.
 ## Contributing
